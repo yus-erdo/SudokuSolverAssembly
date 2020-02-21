@@ -1,1 +1,4 @@
 This is small utility written by x86 assembly language. It solves simple sudoku puzzles. It does not support backtracking thus it can not solve puzzles that requires backtracking.
+
+
+https://medium.com/think-out-of-the-net/solving-sudoku-with-assembly-code-85d91f9d4ee8
